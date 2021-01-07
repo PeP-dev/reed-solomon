@@ -1,5 +1,5 @@
 # reed-solomon
-Implementation of Reed-Solomon python Code, without erasures
+Python implementation of the Reed-Solomon encoding/decoding algorithm, without taking erasures into account.
 
 
 # If you have any questions : 
